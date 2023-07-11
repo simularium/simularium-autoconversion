@@ -11,4 +11,4 @@ jobs:
       - uses: actions/add-to-project@v0.5.0
         with:
           project-url: https://github.com/orgs/simularium/projects/5
-          github-token: ${{ secrets.TEST_SIMULARIUM }}
+          github-token: ${{ secrets.SIMULARIUM }}
